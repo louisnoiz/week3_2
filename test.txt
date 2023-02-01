@@ -1,2 +1,7 @@
 commit1master
+<<<<<<< HEAD
 commitalpha(master)
+=======
+commit2(newbranch)
+committeatree(newbranch)
+>>>>>>> newbranch
